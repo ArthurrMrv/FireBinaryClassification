@@ -59,6 +59,11 @@ The script utilizes a custom dataset class (`CustomDataset`) to load images from
 - If the model fails to load, verify that the provided model path is correct and that the file exists.
 
 ## Examples:
+Wildfire Image:
 ![Wildfire Image](data/TrainingValidation/fire/abc001.jpg)
+
+No fire Image:
 ![No fire Image](data/TrainingValidation/nofire/nofire_0759.jpg)
+
+Sunrise Image (made mistakes before 2nd training):
 ![Sunrise Image (made mistakes before 2nd training)](data/CompareToSunrise/nofire/sunrise_0.jpeg)
